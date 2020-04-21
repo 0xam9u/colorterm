@@ -120,4 +120,4 @@ if __name__ == '__main__':
         }
         t.add_row(dic)
 
-    print t.display()
+    print(t.display())
